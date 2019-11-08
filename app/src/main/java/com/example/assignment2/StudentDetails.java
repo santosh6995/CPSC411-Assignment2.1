@@ -230,7 +230,6 @@ public class StudentDetails extends AppCompatActivity {
             editView0.setEnabled(false);
             editView1.setEnabled(false);
             editView2.setEnabled(false);
-            bt.setVisibility(View.VISIBLE);
             bt1.setVisibility(View.GONE);
             detailMenu.findItem(R.id.action_done).setVisible(true);
         }
